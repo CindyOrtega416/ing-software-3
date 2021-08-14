@@ -1,0 +1,7 @@
+## Actividad 4
+
+Una Pull Request es la acción de validar un código que se va a mergear de
+una rama a otra
+
+Es decir, es una petición realizada por el propietario del repo local al 
+propietario del master (original) para que sus cambios sean incorporados.
