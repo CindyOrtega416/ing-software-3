@@ -1,4 +1,7 @@
-ACTIVIDAD 4
+## ACTIVIDAD 4
+
+![architecture](https://user-images.githubusercontent.com/37404924/133871692-0ff424d5-a280-472f-bdad-48d3df3a78f5.png)
+
 
 El sistema utiliza dos networks:
 
