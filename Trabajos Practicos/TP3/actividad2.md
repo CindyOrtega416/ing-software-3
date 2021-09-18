@@ -1,6 +1,9 @@
-ACTIVIDAD 2
+## ACTIVIDAD 2
 
 Se trata de una API que esta conectada a la base de datos Redis y posee un contador que es incrementado al visitar el endpoint en ‘/’.
+
+![Captura6](https://user-images.githubusercontent.com/37404924/133871647-7c2dd4fc-6421-4231-972d-2c4d90ac50cf.PNG)
+
 
 Los parámetros –e definen variables de entorno. En el punto anterior es utilizada para configurar el host y el puerto de Redis.
 
