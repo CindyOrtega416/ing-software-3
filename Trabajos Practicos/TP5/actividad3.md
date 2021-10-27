@@ -39,3 +39,13 @@ En otras palabras, es un concepto (abstracto) que cubre todos los pasos que se e
 •	Default: Es el encargado del deployment del proyecto
 •	Clean:  Es este ciclo se limpian los archivos y directorios generados por Maven durante el build.
 •	Site: Es el ciclo encargado de la creación del proyecto y su documentación.
+![image](https://user-images.githubusercontent.com/37404924/138983293-dfcd3b4e-13d0-4200-8fbd-6cb7de36409c.png)
+
+El comando `mvn clean install` generó el jar correspondiente al POM.
+ 
+![image](https://user-images.githubusercontent.com/37404924/138983324-30bd9d78-b64e-4567-9af5-3fc59fddd1a1.png)
+
+![image](https://user-images.githubusercontent.com/37404924/138983332-d5fa01b8-6c8a-4902-bb8a-1897491d6a15.png)
+
+ 
+
