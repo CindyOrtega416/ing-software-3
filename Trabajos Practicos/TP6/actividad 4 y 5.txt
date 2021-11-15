@@ -1,0 +1,10 @@
+## Python-flask
+Cuando ejecuto un docker-compose up -d en el directorio de la aplicación, se levanta dos servicios, una aplicación python y una db redis. Dentro del archivo docker-compose.yml vemos:
+```
+app:
+    build:
+      context: ./
+```
+Así se le define al servicio app donde tiene que utilizar el dockerfile que quiere utilizar
+Lo cual se utiliza para definirle al servicio app donde debe buscar el dockerfile a utilizar.
+
