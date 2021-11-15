@@ -1,7 +1,7 @@
 ## ACTIVIDADES
 
 * Jenkins instalado
- ![alt text](image1.png)
+ ![alt text](image1.PNG)
 
 ### 3- Instalando Plugins y configurando herramientas
 * En Administrar Jenkins vamos a la sección de Administrar Plugins
