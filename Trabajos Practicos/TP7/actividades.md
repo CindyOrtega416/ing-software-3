@@ -127,9 +127,5 @@ pipeline {
             }
         }
     }
-} ```
+} 
 
-
- ![alt text](image12.png)
-
-** Referencia: https://tutorials.releaseworksacademy.com/learn/building-your-first-docker-image-with-jenkins-2-guide-for-developers
